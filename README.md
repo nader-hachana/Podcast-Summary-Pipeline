@@ -9,7 +9,9 @@
 
 # Create the database on the local directory
 >sqlite3 episodes.db
+>
 >sqlite> .databases                  #visualize dbs 
+>
 >sqlite> .quit
 
 # Run Airflow server
