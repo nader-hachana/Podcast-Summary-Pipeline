@@ -35,6 +35,7 @@
 
 # Save the Dag graph as an image on the local directory
 >sudo apt-get install graphviz
+>
 >airflow dags show podcast_summary --save podcast_summary.png
 
 
